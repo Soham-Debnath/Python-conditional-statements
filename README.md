@@ -1,1 +1,1 @@
-# These codes show conditional statements with examples in Python
+# These codes show conditional statements with examples in Python.
